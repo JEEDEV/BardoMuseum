@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="gson-1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/gson-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/google-play-services_lib/libs/google-play-services.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/android-support-v4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/libs/google-play-services_lib/gen" />
+      <root url="file://$PROJECT_DIR$/libs/google-play-services_lib/src" />
+    </SOURCES>
+  </library>
+</component>
